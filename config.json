@@ -1,0 +1,12 @@
+{
+  "models": {
+    "eol_analysis": "google/gemini-2.5-flash-preview:online",
+    "alternatives_search": "google/gemini-2.5-flash-preview:online",
+    "datasheet_search": "perplexity/llama-3.1-sonar-large-128k-online",
+    "specs_determination": "google/gemini-2.5-pro-preview",
+    "comparison": "google/gemini-2.5-pro-preview"
+  },
+  "api_keys": {
+    "openrouter": "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"
+  }
+}
